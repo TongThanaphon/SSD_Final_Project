@@ -1,6 +1,6 @@
 # SSD_Final_Project
-# About This Application
+## About This Application
 
-# How to run
+## How to run
 
-# Design Pattern
+## Design Pattern
