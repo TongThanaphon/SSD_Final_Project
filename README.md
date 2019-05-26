@@ -7,9 +7,9 @@
 2. Input the id accout(6 numbers digit). If you don't have id, it will created for you.
 3. When you login success, it will show select menu window and userinfo window. The userinfo window will update the moeny in your accout when you deposit, withdraw or transfer money. </br>
 <strong>Deposit/Withdraw</strong>
- - If you select this menu, it will show this window.
+  - If you select this menu, it will show this window.
  
- - When you select deposit 1 usd, the userinfo window will updated.
+  - When you select deposit 1 usd, the userinfo window will updated.
  
  <strong>Transfer</strong> </br>
   - If you select this menu, it will show this window.
