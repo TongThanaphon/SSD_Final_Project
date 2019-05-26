@@ -6,17 +6,17 @@
 1. Clone this project and run file ``` LoginGUI.java ```
 2. Input the id accout(6 numbers digit). If you don't have id, it will created for you.
 3. When you login success, it will show select menu window and userinfo window. The userinfo window will update the moeny in your accout when you deposit, withdraw or transfer money. </br>
- <strong>Deposit/Withdraw</strong> </br>
- If you select this menu, it will show this window.
+<strong>Deposit/Withdraw</strong>
+- If you select this menu, it will show this window.
  
- When you select deposit 1 usd, the userinfo window will updated.
+- When you select deposit 1 usd, the userinfo window will updated.
  
- <strong>Transfer</strong>
- If you select this menu, it will show this window.
+<strong>Transfer</strong> </br>
+- If you select this menu, it will show this window.
  
- When you input the receiver id, amount and select type of currency then click submit it will tansfer moeny to that id and your money in account will decrease.
+- When you input the receiver id, amount and select type of currency then click submit it will tansfer moeny to that id and your money in account will decrease.
  
- If you input the id that it does not has in the data base, it will show like this.
+- If you input the id that it does not has in the data base, it will show like this.
 
 ## Design Pattern
 ![Alt text](UML.png?raw=true "UML")
