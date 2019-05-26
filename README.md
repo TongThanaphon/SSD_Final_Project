@@ -13,6 +13,7 @@
  
  - <strong>Transfer</strong> </br>
   - If you select this menu, it will show this window.
+  
   - When you input the receiver id, amount and select type of currency then click submit it will tansfer moeny to that id and your money in account will decrease.
  
   - If you input the id that it does not has in the data base, it will show like this.
