@@ -1,5 +1,5 @@
 # SSD_Final_Project
-Thanaphon Keawjam 6010545781
+This app by Thanaphon Keawjam 6010545781
 ## About This Application
 <strong>BankApp</strong> it is the application with User Interface use to deposit, withdraw and transfer money with any currency. The base money in the account is THB such as user deposit 1 usd to accout, it will change to 32 THB and save in user accout.
 
